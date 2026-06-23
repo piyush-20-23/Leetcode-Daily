@@ -20,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
