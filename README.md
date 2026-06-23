@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
