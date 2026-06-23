@@ -1,7 +1,12 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         Deque<Integer> stack = new ArrayDeque<>();
-        int nGE[] = new int[10001];
+
+        int max = 0;
+        for(int ele : nums2){
+            max = (max > ele) ? max : ele;
+        }
+        int nGE[] = new int[max + 1];
 
         for(int i = nums2.length - 1; i >= 0; i --){
             while(!stack.isEmpty() && stack.peek() <= nums2[i]){
