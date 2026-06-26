@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
