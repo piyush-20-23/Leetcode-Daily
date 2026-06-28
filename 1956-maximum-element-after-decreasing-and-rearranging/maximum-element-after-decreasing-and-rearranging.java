@@ -1,14 +1,36 @@
+/*
+arr : [2,2,1,2,1]
+index  0,1,2,3,4
+freq: [0,2,3]
++
+
+ */
+
+
 class Solution {
     public int maximumElementAfterDecrementingAndRearranging(int[] arr) {
-        Arrays.sort(arr);
+        int max = 0;
+        int n = arr.length;
 
-        int count = 1;
-        for(int i = 1; i < arr.length; i ++){
-            if(arr[i] > arr[i-1] || arr[i] > i){
-                count ++;
+        System.out.println(Arrays.toString(arr));
+
+        int[] freq = new int[n + 1];
+
+        for(int i = 0; i < n; i ++){
+            if(arr[i] > n){
+                freq[n]++;
+                continue;
             }
+                
+            freq[arr[i]] ++;
         }
 
-        return count;
+        int ans = 1;
+        for(int i = 2; i <= n; i ++){
+            ans = Math.min(ans + freq[i], i);
+        }
+
+
+        return ans;
     }
 }
