@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0739-daily-temperatures) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0402-remove-k-digits) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1148-article-views-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1683-invalid-tweets) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
