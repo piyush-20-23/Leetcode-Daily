@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
+| [0713-subarray-product-less-than-k](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0739-daily-temperatures) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
+| [0713-subarray-product-less-than-k](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 ## Database
 |  |
 | ------- |
@@ -104,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
