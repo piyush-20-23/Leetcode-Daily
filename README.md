@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Greedy
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
