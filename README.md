@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0739-daily-temperatures) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3620-network-recovery-pathways](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Greedy
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
+## Simulation
+|  |
+| ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
