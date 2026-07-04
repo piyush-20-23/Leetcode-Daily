@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -144,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
