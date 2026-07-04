@@ -11,7 +11,7 @@ class Solution {
         //System.out.println(Arrays.toString(xAxis));
 
         for(int i = 1; i < xAxis.length; i ++){
-            maxWidth = (maxWidth > xAxis[i] - xAxis[i-1]) ? maxWidth : xAxis[i] - xAxis[i-1];
+            maxWidth = Math.max(maxWidth, xAxis[i] - xAxis[i-1]);
         }
 
         return maxWidth;
