@@ -28,21 +28,17 @@ class Solution {
         Deque<Double> stack = new ArrayDeque();
         stack.push(time[n - 1]);
 
+        int uniqueElement = 1;
         for(int i = n - 2; i >= 0; i --){
-            if(stack.peek() > time[i]){
+            if(stack.peek() >= time[i]){
                 time[i] = stack.peek();
             }
             else {
                 stack.push(time[i]);
+                uniqueElement ++;
             }
         }
 
-        Set<Double> hs = new HashSet<>();
-
-        for(double ele : time){
-            hs.add(ele);
-        }
-
-        return hs.size();
+        return uniqueElement;
     }
 }
