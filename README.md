@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0739-daily-temperatures) |
+| [0806-number-of-lines-to-write-string](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0806-number-of-lines-to-write-string) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1288-remove-covered-intervals](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0402-remove-k-digits) |
+| [0806-number-of-lines-to-write-string](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0806-number-of-lines-to-write-string) |
 ## Design
 |  |
 | ------- |
