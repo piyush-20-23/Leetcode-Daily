@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 | [0806-number-of-lines-to-write-string](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0806-number-of-lines-to-write-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Design
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
