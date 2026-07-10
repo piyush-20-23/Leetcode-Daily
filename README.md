@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-network-recovery-pathways](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1288-remove-covered-intervals) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Two Pointers
 |  |
 | ------- |
