@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
@@ -194,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
