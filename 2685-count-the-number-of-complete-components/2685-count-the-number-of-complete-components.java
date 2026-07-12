@@ -1,63 +1,40 @@
 class Solution {
-
-    boolean[] visited;
-    List<List<Integer>> adj;
-    int componentCount; 
-    int n;
-    int edg;
-    int ver;
+    static int V, D;
 
     public int countCompleteComponents(int n, int[][] edges) {
-        this.n = n;
-        // create adjacency List
-        adj = new ArrayList<>();
+        List<Integer>[] A = new ArrayList[n];
+        Arrays.setAll(A, _ -> new ArrayList<>());
 
-        for(int i = 0; i < n; i ++){
-            adj.add( new ArrayList<>());
+        for (int[] e : edges) {
+            A[e[0]].add(e[1]);
+            A[e[1]].add(e[0]);
         }
 
-        for(int i = 0; i < edges.length; i ++){
-            int u = edges[i][0];
-            int v = edges[i][1];
+        boolean[] vis = new boolean[n];
+        int res = 0;
 
-            adj.get(u).add(v);
-            adj.get(v).add(u);
-        }
+        for (int i = 0; i < n; i++) {
+            boolean state = vis[i];
 
-        // iterate through every node if it not visited by dfs
-        componentCount = 0;
-        visited = new boolean[n];
+            if (!state) {
+                V = 0; D = 0;
 
-        ver = 0;
-        edg = 0;
-        
-        for(int i = 0; i < n; i ++){
-            ver = 0;
-            edg = 0;
-            if(!visited[i]){
-                dfs(i);
-            }
+                dfs(i, A, vis);
 
-            if((ver * (ver -1)) / 2 == edg/2 && ver != 0){
-                componentCount ++;
+                if (D == V * (V - 1)) res++;
             }
         }
 
-
-        return componentCount;
+        return res;
     }
 
-    public void dfs(int node){
-        
-        visited[node] = true;
-        ver ++;
-        edg += adj.get(node).size();
-        
-        
-        for(int neighbour : adj.get(node)){
-            if(!visited[neighbour]){
-                dfs(neighbour);
-            }
-        }
+    private void dfs(int x, List<Integer>[] A, boolean[] vis) {
+        V++;
+        D += A[x].size();
+        vis[x] = true;
+
+        for (int state : A[x])
+            if (!vis[state])
+                dfs(state, A, vis);
     }
 }
