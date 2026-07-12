@@ -1,63 +1,58 @@
 class Solution {
-
     boolean[] visited;
-    List<List<Integer>> adj;
-    int componentCount; 
-    int n;
-    int edg;
-    int ver;
+    List<Integer>[] adg;
+
+    int V, E;
+
+    public void dfs(int node){
+
+        // mark as visited
+        visited[node] = true;
+
+        // increament vertices and edges
+        V ++;
+        E += adg[node].size();
+
+        // iterate through every neighbour 
+        for(int neighbour : adg[node]){
+            if(!visited[neighbour])
+                dfs(neighbour);
+        }
+    }
+
 
     public int countCompleteComponents(int n, int[][] edges) {
-        this.n = n;
-        // create adjacency List
-        adj = new ArrayList<>();
+        adg = new List[n];
+
+        // this will give each row the same object reference
+        // Arrays.fill(adg, new ArrayList<>());
 
         for(int i = 0; i < n; i ++){
-            adj.add( new ArrayList<>());
+            adg[i] = new ArrayList<>();
         }
 
+        // add edge to the adjacency array
         for(int i = 0; i < edges.length; i ++){
             int u = edges[i][0];
             int v = edges[i][1];
 
-            adj.get(u).add(v);
-            adj.get(v).add(u);
+            adg[u].add(v);
+            adg[v].add(u);
         }
 
-        // iterate through every node if it not visited by dfs
-        componentCount = 0;
         visited = new boolean[n];
+        int componentCount = 0;
 
-        ver = 0;
-        edg = 0;
-        
         for(int i = 0; i < n; i ++){
-            ver = 0;
-            edg = 0;
-            if(!visited[i]){
+            V = 0;
+            E = 0;
+            if(!visited[i])
                 dfs(i);
-            }
 
-            if((ver * (ver -1)) / 2 == edg/2 && ver != 0){
+            if(E == (V * (V - 1)) && V != 0)
                 componentCount ++;
-            }
         }
-
 
         return componentCount;
-    }
-
-    public void dfs(int node){
-        
-        visited[node] = true;
-        ver ++;
-        edg += adj.get(node).size();
-        
-        
-        for(int neighbour : adj.get(node)){
-            if(!visited[neighbour]){
-                dfs(neighbour);
-            }
-        }
     }
 }
