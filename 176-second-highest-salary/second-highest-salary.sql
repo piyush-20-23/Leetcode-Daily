@@ -9,7 +9,7 @@
 
 with salary_rank as (
     select
-        *
+        salary
         , dense_rank() over(order by salary desc) as r
     from employee
 )
