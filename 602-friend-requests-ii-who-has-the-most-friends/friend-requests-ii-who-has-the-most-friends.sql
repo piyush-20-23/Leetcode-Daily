@@ -14,20 +14,10 @@ with cte as(
     group by accepter_id)
 )
 
-, id_sum as(
-    select 
-        id
-        , sum(num) as num
-    from cte
-    group by id
-)
-
 select 
     id
-    , num
-from id_sum
-where num = (
-    select
-        max(num) as num
-    from id_sum
-)
+    , sum(num) as num
+from cte
+group by id
+order by num desc
+limit 1
