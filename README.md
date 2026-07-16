@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3620-network-recovery-pathways](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-number-of-lines-to-write-string](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0806-number-of-lines-to-write-string) |
 | [0853-car-fleet](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0853-car-fleet) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1252-cells-with-odd-values-in-a-matrix) |
