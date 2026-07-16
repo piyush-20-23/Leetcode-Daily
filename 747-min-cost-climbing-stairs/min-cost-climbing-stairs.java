@@ -1,27 +1,12 @@
 class Solution {
-    int[] cost;
-    int[] dp;
+    // Bottom up tabulation - O(n) 1ms
     public int minCostClimbingStairs(int[] cost) {
-        this.cost = cost;
         int n = cost.length;
-
-        dp = new int[n + 1];
-        Arrays.fill(dp, -1);
-
-        return helper(n);
-    }
-
-    public int helper(int n){
-        if(n < 0){
-            return 0;
+        int[] dp = new int[n];
+        for (int i=0; i<n; i++) {
+            if (i<2) dp[i] = cost[i];
+            else dp[i] = cost[i] + Math.min(dp[i-1], dp[i-2]);
         }
-
-        if(dp[n] != -1)
-            return dp[n];
-
-        int oneDown = helper(n - 1);
-        int twoDown = helper(n - 2);
-
-        return dp[n] =  Math.min(oneDown, twoDown) + ((n > cost.length - 1) ? 0 : cost[n]);
+        return Math.min(dp[n-1], dp[n-2]);
     }
 }
