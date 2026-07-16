@@ -2,15 +2,19 @@ class Solution {
     public int rob(int[] nums) {
         int[] dp = new int[nums.length + 1];
 
-        dp[0] = 0;
-        dp[1] = nums[0];
+        int first = 0;
+        int second = 0;
+        int temp = 0;
 
-        for(int i = 2; i < nums.length + 1; i ++){
-            dp[i] = Math.max(dp[i-2] + nums[i - 1], dp[i-1]);
+        for(int i = 0; i < nums.length; i ++){
+            temp = first;
+            first = Math.max(second + nums[i], first);
+            second = temp;
+
+            // dp[i] = Math.max(dp[i-2] + nums[i - 1], dp[i-1]);
         }
 
-        System.out.println(Arrays.toString(dp));
-
-        return dp[nums.length];
+        //return dp[nums.length];
+        return first;
     }
 }
