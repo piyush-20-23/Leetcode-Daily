@@ -1,22 +1,16 @@
 class Solution {
-    int[] memo;
     public int rob(int[] nums) {
-        memo = new int[nums.length + 1];
-        Arrays.fill(memo, -1);
-        return rob(nums, nums.length - 1);
-    }
+        int[] dp = new int[nums.length + 1];
 
-    private int rob(int[] nums, int i) {
-        if (i < 0) {
-            return 0;
+        dp[0] = 0;
+        dp[1] = nums[0];
+
+        for(int i = 2; i < nums.length + 1; i ++){
+            dp[i] = Math.max(dp[i-2] + nums[i - 1], dp[i-1]);
         }
-        if (memo[i] >= 0) {
-            return memo[i];
-        }
-        int take = rob(nums, i - 2) + nums[i];
-        int skip = rob(nums, i - 1);
-        int result = Math.max(take, skip);
-        memo[i] = result;
-        return result;
+
+        System.out.println(Arrays.toString(dp));
+
+        return dp[nums.length];
     }
 }
