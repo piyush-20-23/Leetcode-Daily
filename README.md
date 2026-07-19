@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0853-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0402-remove-k-digits) |
 | [0806-number-of-lines-to-write-string](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0806-number-of-lines-to-write-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Design
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Divide and Conquer
