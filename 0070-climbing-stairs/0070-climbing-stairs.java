@@ -1,20 +1,30 @@
 class Solution {
     int[] memo;
-    public int climbStairs(int n) {
-        this.memo = new int[n + 1];
+    public int solve(int n){
+        if(n <= 2){
+            return n;
+        }
 
-        return recursion(n);
+        if(memo[n] != -1)
+            return memo[n];
+
+
+        return memo[n] = solve(n-1) + solve(n-2);
     }
 
-    public int recursion(int n){
-        //base 
-        if(n < 3)
+    public int climbStairs(int n) {
+        if(n <= 2)
             return n;
         
-        if (memo[n] != 0){
-            return memo[n];
+        int[] dp = new int[n + 1];
+
+        dp[1] = 1;
+        dp[2] = 2;
+
+        for(int i = 3; i < n+1; i ++){
+            dp[i] = dp[i - 1] + dp[i - 2];
         }
-        
-        return memo[n] = recursion(n-1) + recursion(n-2);
+
+        return dp[n];
     }
 }
