@@ -23,9 +23,9 @@ class Solution {
             }
         }
 
-for(int[] row : dp){
-    System.out.println(Arrays.toString(row));
-}
+// for(int[] row : dp){
+//     System.out.println(Arrays.toString(row));
+// }
 
         int maxVal = 0;
         for(int i = 0; i < m; i ++){
