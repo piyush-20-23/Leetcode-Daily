@@ -1,32 +1,16 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        Arrays.sort(nums1);
-
-        // check for all even 
+        int minimum = Integer.MAX_VALUE;
         boolean allEven = true;
-        for(int elee : nums1){
-            if(elee % 2 != 0){
+
+        for (int num : nums1) {
+            minimum = Math.min(minimum, num);
+
+            if (num % 2 == 1) {
                 allEven = false;
             }
         }
 
-        if(allEven){
-            return true;
-        }
-
-        // all odds
-
-        int prevOdd = Integer.MIN_VALUE;
-
-        for(int i = 0; i < nums1.length; i ++){
-            if(nums1[i] % 2 == 0 && prevOdd == Integer.MIN_VALUE){
-                return false;
-            }
-            else{
-                prevOdd = nums1[i];
-            }
-        }
-
-        return true;
+        return allEven || minimum % 2 == 1;
     }
 }
