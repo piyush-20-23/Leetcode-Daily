@@ -268,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
