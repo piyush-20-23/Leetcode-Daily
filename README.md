@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3483-unique-3-digit-even-numbers](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3620-network-recovery-pathways](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bracket Sequences
 |  |
