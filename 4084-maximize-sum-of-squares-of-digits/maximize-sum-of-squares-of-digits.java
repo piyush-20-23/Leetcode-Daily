@@ -1,13 +1,5 @@
 class Solution {
 
-    public int solve(int sum){
-        if(sum < 10){
-            return sum;
-        }
-
-        return 9;
-    }
-
     public String maxSumOfSquares(int num, int sum) {
 
         // invalid cases
@@ -18,7 +10,11 @@ class Solution {
         StringBuilder str = new StringBuilder("");
 
         for(int i = 0; i < num; i ++){
-            int digitTaken = solve(sum);
+            int digitTaken = 9;
+
+            if(sum < 10){
+                digitTaken = sum;
+            }
 
             str.append(digitTaken);
             sum -= digitTaken;
