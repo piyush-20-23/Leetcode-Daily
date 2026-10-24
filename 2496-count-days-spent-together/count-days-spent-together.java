@@ -32,7 +32,7 @@ class Solution {
             }
 
 
-System.out.println(dayNumAliceArrive + " " + dayNumBobArrive + " " + dayNumAliceLeave + " " + dayNumBobLeave);
+//System.out.println(dayNumAliceArrive + " " + dayNumBobArrive + " " + dayNumAliceLeave + " " + dayNumBobLeave);
 
 
         return Math.abs(
