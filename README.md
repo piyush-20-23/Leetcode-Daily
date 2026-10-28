@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3620-network-recovery-pathways](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/0078-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/piyush-20-23/Leetcode-Daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
