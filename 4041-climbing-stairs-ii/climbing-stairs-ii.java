@@ -1,36 +1,41 @@
-
 class Solution {
 
-    int[] memo;
-
-    public int solve(int n, int[] costs) {
-        if (n <= 0) {
+    public int solve(int n, int[] costs){
+        if(n <= 0){
             return 0;
         }
 
-        if (memo[n] != -1) {
-            return memo[n];
+        int prev1 = 0;
+        int prev2 = 0;
+        int prev3 = 0;
+
+        for(int i = 1; i <= n; i ++){
+            int curr = costs[i-1] + 1 + prev1;
+
+            if(i >= 2){
+                curr = Math.min(
+                    curr,
+                    costs[i-1] + 4 + prev2
+                );
+            }
+
+            if(i >= 3){
+                curr = Math.min(
+                    curr, 
+                    costs[i-1] + 9 + prev3
+                );
+            }
+
+            prev3 = prev2;
+            prev2 = prev1;
+            prev1 = curr;
+
         }
 
-        int min = solve(n - 1, costs) + costs[n - 1] + 1;
-
-        if (n >= 2) {
-            min = Math.min(min,
-                solve(n - 2, costs) + costs[n - 1] + 4);
-        }
-
-        if (n >= 3) {
-            min = Math.min(min,
-                solve(n - 3, costs) + costs[n - 1] + 9);
-        }
-
-        return memo[n] = min;
+        return prev1;
     }
 
     public int climbStairs(int n, int[] costs) {
-        memo = new int[n + 1];
-        Arrays.fill(memo, -1);
-
         return solve(n, costs);
     }
 }
